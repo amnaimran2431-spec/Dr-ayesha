@@ -1,0 +1,8 @@
+{
+  "name": "Dr. Ayesha Naveed Clinic",
+  "description": "Dr. Ayesha Naveed Clinic in Gulberg II, Lahore. Thoughtful, patient-centered healthcare consultations, preventive medical guidance, and appointment booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
